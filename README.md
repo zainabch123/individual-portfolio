@@ -2,11 +2,11 @@
 
 ## Contents
 
-- [What is a Developer Portfolio?](#what-is-a-Developer-Portfolio?)
-- [Why am I building one now?](#why-am-I-building-one-now?)
-- [How do I make one?](#how-do-I-make-one?)
-- [How do I deploy my site to the internet?](#how-do-I-deploy-my-site-to-the-internet?)
-- [Where can I find examples or inspiration?](#where-can-I-find-examples-or-inspiration?)
+- [What is a Developer Portfolio?](#what-is-a-developer-portfolio)
+- [Why am I building one now?](#why-am-i-building-one-now)
+- [How do I make one?](#how-do-i-make-one)
+- [How do I deploy my site to the internet?](#how-do-i-deploy-my-site-to-the-internet)
+- [Where can I find examples or inspiration?](#where-can-i-find-examples-or-inspiration)
 
 ## What is a Developer Portfolio?
 
