@@ -2,20 +2,24 @@
 
 ## Contents
 
-- [What is a Developer Portfolio?](#what-is-a-developer-portfolio)
-- [Why am I building one now?](#why-am-i-building-one-now)
-- [How do I make one?](#how-do-i-make-one)
-- [Where can I find examples or inspiration?](#where-can-i-find-examples-or-inspiration)
-- [How do I deploy my site to the internet?](#how-do-i-deploy-my-site-to-the-internet)
+- [Overview](#overview)
+  - [What is a Developer Portfolio?](#what-is-a-developer-portfolio)
+  - [Why am I building one now?](#why-am-i-building-one-now)
+  - [How do I make one?](#how-do-i-make-one)
+- [Instructions](#instructions)
+- [Resources](#resources)
+  - [Where can I find examples or inspiration?](#where-can-i-find-examples-or-inspiration)
+  - [How do I deploy my site to the internet?](#how-do-i-deploy-my-site-to-the-internet)
 
-## What is a Developer Portfolio?
+## Overview
+### What is a Developer Portfolio?
 
 A Developer Portfolio is a website that showcases your skills, experience and work to prospective employers. It
 is similar in ways to a portfolio that an artist or photographer might create - they collate some example projects to
 show what sort of work they do. It's also a bit like a CV, as there will be aspects of talking about yourself and
 your background; but instead of just talking about your work, you can show what you've built!
 
-## Why am I building one now?
+### Why am I building one now?
 
 - You will need a portfolio to find/get a job as it will help you to stand out.
 - It is easier to build one now since the frontend course material will still be fresh on your minds.
@@ -23,13 +27,14 @@ your background; but instead of just talking about your work, you can show what 
 - This will also prepare you for when you gain access to Boolean's Career Services, as they can help you to refine
   the portfolio.
 
-## How do I make one?
+### How do I make one?
 
 The best way is to build one yourself! This way, even the portfolio site itself is a demonstration of your skills
 and experience.
 
 First, plan your portfolio! Do some research on designs, think about what content you want to include, structure the
-very high-level layout of the site, etc.
+very high-level layout of the site, etc. Check out the 
+[Where can I find examples or inspiration?](#where-can-i-find-examples-or-inspiration) section below.
 
 Next, build it! What you use to build it is up to you, and it will generally be one of:
 
@@ -56,7 +61,28 @@ In terms of the content to include, at a very high level, you will want to inclu
 For more ideas/detail, read through the relevant sections of
 [this e-book](https://www.joshwcomeau.com/effective-portfolio/download-book/).
 
-## Where can I find examples or inspiration?
+## Instructions
+You should create your portfolio in a new repo on your own account. But to make it easier for teachers and staff to 
+access your portfolio, please do the following:
+- [ ] Fork this repo, and clone the forked version from your GitHub account
+- [ ] Rename this `README.md` file to something else (e.g. `INSTRUCTIONS.md`)
+- [ ] Create a new file called `README.md`, and include the following content sections (complete them as and when 
+  you are able to):
+  - About My Portfolio Project
+    - Planning & Inspiration _(e.g. include drawings, diagrams, links to sites used to get ideas, etc.)_
+    - Tech Stack _(i.e. what technology / frameworks / libraries you used)_
+    - Why This Stack
+  - Links 
+    - Online Hosted Portfolio
+    - Portfolio GitHub Repo
+- [ ] Push your code and raise a PR, as per the usual process
+- [ ] If any information changes, update it, and push your changes (especially important for the links)
+
+> **NOTE:** We do not want you to use the fork of this repo to host your portfolio project code! Create a new 
+> dedicated repo for it from your own account.
+
+## Resources
+### Where can I find examples or inspiration?
 
 Here are some sites to check out:
 
@@ -64,7 +90,7 @@ Here are some sites to check out:
 - https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/
 - https://www.behance.net/?tracking_source=typeahead_search_direct&search=portfolio%20cv%20developer
 
-## How do I deploy my site to the internet?
+### How do I deploy my site to the internet?
 
 There are various approaches, and it depends on what sort of site/application you have built.
 
