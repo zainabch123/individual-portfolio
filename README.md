@@ -5,8 +5,8 @@
 - [What is a Developer Portfolio?](#what-is-a-developer-portfolio)
 - [Why am I building one now?](#why-am-i-building-one-now)
 - [How do I make one?](#how-do-i-make-one)
-- [How do I deploy my site to the internet?](#how-do-i-deploy-my-site-to-the-internet)
 - [Where can I find examples or inspiration?](#where-can-i-find-examples-or-inspiration)
+- [How do I deploy my site to the internet?](#how-do-i-deploy-my-site-to-the-internet)
 
 ## What is a Developer Portfolio?
 
@@ -56,6 +56,14 @@ In terms of the content to include, at a very high level, you will want to inclu
 For more ideas/detail, read through the relevant sections of
 [this e-book](https://www.joshwcomeau.com/effective-portfolio/download-book/).
 
+## Where can I find examples or inspiration?
+
+Here are some sites to check out:
+
+- https://webflow.com/blog/web-developer-portfolio-examples
+- https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/
+- https://www.behance.net/?tracking_source=typeahead_search_direct&search=portfolio%20cv%20developer
+
 ## How do I deploy my site to the internet?
 
 There are various approaches, and it depends on what sort of site/application you have built.
@@ -82,11 +90,3 @@ There are various approaches, and it depends on what sort of site/application yo
       terminal / GitBash.
   > Whichever Netlify  guide you follow, be sure to do the steps fo adding a `_redirects` file to enable both React SPA 
   > and React with Routing apps to work properly. 
- 
-## Where can I find examples or inspiration?
-
-Here are some sites to check out:
-
-- https://webflow.com/blog/web-developer-portfolio-examples
-- https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/
-- https://www.behance.net/?tracking_source=typeahead_search_direct&search=portfolio%20cv%20developer
