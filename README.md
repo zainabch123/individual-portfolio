@@ -45,14 +45,20 @@ Next, build it! What you use to build it is up to you, and it will generally be 
 > At this stage, it is NOT advised to build something with a new language or framework. Save this for the projects
 > that you want to showcase in the portfolio!
 
+Use [this guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) 
+to help you create a new GitHub repository for your portfolio
+
 In terms of the content to include, at a very high level, you will want to include:
 
 - **Biography/Self-Intro** - a paragraph or two about you.
 - **Tech Stack** - the languages/technologies that you have experience with.
 - **Education / Experience** - only those that are relevant to coding / the line of work you want to go into.
 - **Projects** - sites/apps that you have built.
+  - You should aim to have at least 3 and no more than 5 projects to showcase.
+  - Try to add as much variety to the projects you choose as possible.
   - Include a short description of what it does; the tech you used; and a link to the GitHub repo.
-  - EITHER include a link to the deployed online version OR add screenshots, short clips, GIFs, etc.
+  - EITHER include a link to the deployed online version OR add screenshots, short clips, GIFs, etc. of a
+    localhost version from your computer.
   - Avoid including exercises from the course or apps built from tutorials.
   - Challenges from the course could be included as these involved less guidance but having something unique would
     still be better to help you stand out from the crowd.
