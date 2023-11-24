@@ -116,9 +116,15 @@ There are various approaches, and it depends on what sort of site/application yo
     - It is NOT advised to use the "Drag and Drop the Build Folder in Netlify" approach
     - The "How to Deploy an App to Netlify from a GitHub Repository" approach is better
     - Beware that this is from 2021 so some things may have changed
-  - [Netlify instructions](https://docs.netlify.com/integrations/frameworks/vite/#deploy-your-vite-project-with-netlify-cli)
-    - These are the official Netlify instructions for deploying a React app built using `vite`
+  - [Netlify web instructions](https://docs.netlify.com/site-deploys/create-deploys/)
+    - These are the official Netlify instructions on how to use their web interface to link your GitHub repo to their platform
+      so that you can create a "Continuous Deployment" - meaning the deployed website will automatically update to match what
+      is contained in your repo!
+  - [Netlify CLI instructions](https://docs.netlify.com/integrations/frameworks/vite/#deploy-your-vite-project-with-netlify-cli)
+    - These are the official Netlify instructions for deploying a React app built using `vite`.
     - It involves installing their Command Line Interface (CLI), which is a programme that you run from your 
       terminal / GitBash.
+    - This is an alternative approach to using the web deployment approach above. Use one approach or the other - NOT BOTH!
+
   > Whichever Netlify  guide you follow, be sure to do the steps fo adding a `_redirects` file to enable both React SPA 
   > and React with Routing apps to work properly. 
