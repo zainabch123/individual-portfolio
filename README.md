@@ -81,7 +81,7 @@ access your portfolio, please do the following:
   - Links 
     - Online Hosted Portfolio
     - Portfolio GitHub Repo
-- [ ] Push your code and raise a PR, as per the usual process
+- [ ] Stage, commit and push your changes; then raise a PR -- as per the usual process
 - [ ] If any information changes, update it, and push your changes (especially important for the links)
 
 > **NOTE:** We do not want you to use the fork of this repo to host your portfolio project code! Create a new 
